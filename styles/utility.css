@@ -41,6 +41,10 @@
         font:inherit;
     }
 
+    img {
+        max-width: 100%;
+    }
+
     .container {
         max-width: 1280px;
         padding-inline: 32px;
@@ -52,7 +56,7 @@
         display: grid;
     }
 
-    .grid-flow-col{
+    .grid-flow-col { 
         grid-auto-flow: column ;
     }
     
@@ -63,3 +67,5 @@
     .gap-16 {
         gap: 16px;
     }
+
+    

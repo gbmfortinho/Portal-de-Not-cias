@@ -52,11 +52,17 @@
 
     }
 
+    main {
+        margin-top: 40px;
+    }
+
     .grip {
         display: grid;
     }
 
-    .grid-flow-col{
+    .grid-flow-col {
         grid-auto-flow: column ;
     }
+    
+
     
